@@ -6,7 +6,7 @@ Workflow for converting architectural sketches into photorealistic interior rend
 
 Comparison:
 
-![Comparison](examples/)
+![Comparison](examples/example1.jpg) ![Comparison](examples/example4.jpg)
 
 ---
 
