@@ -31,7 +31,6 @@ Comparison:
 - ComfyUI
 - Stable Diffusion 1.5
 - ControlNet Lineart
-- ControlNet Canny (optional)
 
 ---
 
@@ -44,7 +43,6 @@ Checkpoint
 ControlNet
 
 - control_v11p_sd15_lineart
-- control_v11p_sd15_canny
 
 Upscale
 
